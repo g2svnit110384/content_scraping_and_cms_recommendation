@@ -1,4 +1,4 @@
-# Web content scraping and CMS recommendation
+# Web content scraping and AI Based CMS recommendation System
 This repository contains two important tools for web modernization; Web Content Scrapper and CMS recommendation tool.
 
 **Purpose of the Content Extraction Tool**
